@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshils1!
+- 👋 Hi, I’m Harshil!
 - 👀 I’m studying at University of Waterloo for Computer Engineering
 
 <!---
