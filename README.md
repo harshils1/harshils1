@@ -3,7 +3,7 @@
 
 Below are some of my skills and areas of interest:
 - 💻 Web Development (front-end & back-end)
-- 📱  Application Development
+-  📱 Application Development
 - 📈 Data Engineering/DataOps
 - ⚡ Hardware
 
