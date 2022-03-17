@@ -5,6 +5,7 @@ Below are some of my skills and areas of interest:
 - 💻 Web Development (front-end & back-end)
 -  📱 Application Development
 - 📈 Data Engineering/DataOps
+- 🤖 Machine Learning
 - ⚡ Hardware
 
 I created a Github account to practice programming in new technologies and development areas. If you have any questions, please feel free to reach out to me!
