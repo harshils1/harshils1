@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harshil!
+- 👋 Hey, I’m Harshil!
 - 👀 I’m studying at University of Waterloo for Computer Engineering
 
 Below are some of my skills and areas of interest:
