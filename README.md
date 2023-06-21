@@ -1,8 +1,9 @@
-- 👋 Hey, I’m Harshil!
-- 👀 I’m studying at University of Waterloo for Computer Engineering
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshils1&label=Profile%20views&color=0e75b6&style=flat" alt="Harshil Shah" /> </p>
-<p  align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshils1&show_icons=true&locale=en&layout=compact" alt="Harshil Shah" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshils1&show_icons=true&locale=en&layout=compact" alt="Harshil Shah" /></p>
+
+- 👋 Hey, I’m Harshil!
+- 👀 I’m studying at University of Waterloo for Computer Engineering
 
 Below are some of my skills and areas of interest:
 - 💻 Web Development (front-end & back-end)
