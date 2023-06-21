@@ -13,10 +13,6 @@ Below are some of my skills and areas of interest:
 - 🤖 Machine Learning
 - ⚡ Hardware
 
-Some cool tech frameworks and libraries I have used:
-Front-End: React.js, React Native, Next.js
-Back-End: Spring Boot, Express.js, Flask
-Machine Learning: Databricks, PyTorch, scikit-learn
 <!--(https://github-readme-stats.vercel.app/api?username=harshils1&count_private=true&show_icons=true)]
 
 <!---
