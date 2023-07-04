@@ -6,6 +6,11 @@
 
 <h3 align="center">Currently interning at Ripple, spearheading a Machine Learning service on their Data Platform!</h3>
 
+Previously interned at:
+- NCR Corporation: Software Developer Intern
+- Infrastructure Canada: Data Engineering Intern
+- S M Software Solutions: Software Developer Intern
+  
 Below are some of my skills and areas of interest:
 - 💻 Web Development (front-end & back-end)
 -  📱 Application Development
