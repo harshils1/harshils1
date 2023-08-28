@@ -4,9 +4,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshils1&label=Profile%20views&color=0e75b6&style=flat" alt="Harshil Shah" /> </p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshils1&show_icons=true&locale=en&layout=compact" alt="Harshil Shah" /></p>
 
-<h3 align="center">Currently interning at Ripple, spearheading a Machine Learning service on their Data Platform!</h3>
+<h3 align="center">Currently looking for Winter 2024 internships!</h3>
 
 Previously interned at:
+- Ripple: Software Engineering Intern
 - NCR Corporation: Software Developer Intern
 - Infrastructure Canada: Data Engineering Intern
 - S M Software Solutions: Software Developer Intern
