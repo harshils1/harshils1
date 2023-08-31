@@ -7,10 +7,10 @@
 <h3 align="center">Currently looking for Winter 2024 internships!</h3>
 
 Previously interned at:
-- Ripple: Software Engineering Intern
-- NCR Corporation: Software Developer Intern
-- Infrastructure Canada: Data Engineering Intern
-- S M Software Solutions: Software Developer Intern
+- Ripple: Software Engineering Intern (Data Platform & Engineering)
+- NCR Corporation: Software Developer Intern (Backend)
+- Infrastructure Canada: Data Engineering Intern (Data Management)
+- S M Software Solutions: Software Developer Intern (Mobile Application)
   
 Below are some of my skills and areas of interest:
 - 💻 Web Development (front-end & back-end)
