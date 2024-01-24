@@ -11,8 +11,7 @@ Previously interned at:
 - Ripple: Software Engineering Intern (Data Platform)
 - NCR Corporation: Software Developer Intern (Backend)
 - Infrastructure Canada: Data Engineering Intern (Data Platform)
-- S M Software Solutions: Software Developer Intern (Mobile Application)
-  
+    
 Below are some of my skills and areas of interest:
 - 💻 Web Development (front-end & back-end)
 -  📱 Application Development
