@@ -6,7 +6,7 @@
 
 <h3 align="center">Currently looking for Summer 2025 internships!</h3>
 
-Incoming SWE Intern @ Shopify!
+SWE Intern @ Shopify!
 
 Previously interned at:
 - Constant Contact: Software Engineering Intern (Innovation Lab)
