@@ -7,11 +7,11 @@
 <h3 align="center">Currently looking for Summer 2025 internships!</h3>
 
 Previously interned at:
-- Shopify: Software Engineering Intern (Ecosystem)
-- Constant Contact: Software Engineering Intern (Innovation Lab)
-- Ripple: Software Engineering Intern (Data Platform)
-- NCR Corporation: Software Developer Intern (Backend)
-- Infrastructure Canada: Data Engineering Intern (Data Platform)
+- **Shopify: Software Engineering Intern (Ecosystem)
+- **Constant Contact: Software Engineering Intern (Innovation Lab)
+- **Ripple: Software Engineering Intern (Data Platform)
+- **NCR Corporation: Software Developer Intern (Backend)
+- **Infrastructure Canada: Data Engineering Intern (Data Platform)
 
 <!--(https://github-readme-stats.vercel.app/api?username=harshils1&count_private=true&show_icons=true)]
 
