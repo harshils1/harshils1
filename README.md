@@ -1,10 +1,7 @@
-
-<h1 align="center">👋 Hey, I’m Harshil!</h1>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshils1&label=Profile%20views&color=0e75b6&style=flat" alt="Harshil Shah" /> </p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshils1&show_icons=true&locale=en&layout=compact" alt="Harshil Shah" /></p>
 
-<h3 align="center">Currently looking for Summer 2025 internships!</h3>
+<h3 align="center">Currently looking for New Grad opportunities!</h3>
 
 Previously interned at:
 - **Shopify**: Software Engineering Intern (Ecosystem)
