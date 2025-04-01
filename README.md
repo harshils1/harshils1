@@ -4,7 +4,7 @@
 <h3 align="center">Currently looking for New Grad opportunities!</h3>
 
 Previously interned at:
-- **Shopify**: Software Engineering Intern (Ecosystem)
+- **Shopify**: Software Engineering Intern (International)
 - **Constant Contact**: Software Engineering Intern (Innovation Lab)
 - **Ripple**: Software Engineering Intern (Data Platform)
 - **NCR Corporation**: Software Developer Intern (Backend)
